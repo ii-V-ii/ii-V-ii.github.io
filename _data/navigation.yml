@@ -7,6 +7,11 @@ main:
   - title: "Portfolio"
     url: /portfolio/
 
+submenu:
+  - title: study
+  - title: project
+  - title: trouble shooting
+
 portfolio:
   - title: "tetlendar"
     url: /portfolio/tetlendar/

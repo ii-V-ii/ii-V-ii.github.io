@@ -284,12 +284,13 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: single
-      author_profile: true
-      read_time: true
+      layout: archive
+      read_time: false
       comments: true
-      share: true
+      share: false
       related: true
+      sidebar:
+        nav: "submenu"
     # _pages
   - scope:
       path: ""
